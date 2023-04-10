@@ -1,6 +1,6 @@
 # palcomtech
-ini untuk belajar aja
+ini untuk belajar git
+++++++++++++++++++++++++++
 
-- untuk belajar
 - untuk workshop
 
